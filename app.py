@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-modelpath = r"best.pt"
+modelpath = r"../model/best.pt"
 
 
 @st.cache_resource()
