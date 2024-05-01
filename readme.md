@@ -1,4 +1,4 @@
-# 🍓Berry Whisperer L1: Berries Classifier
+# 🍓[Berry Whisperer L1](https://berries-classifier.streamlit.app/): Berries Classifier
 
 This little gem (pun intended) is a web app that helps you identify your mystery berries using the power of image classification!
 
